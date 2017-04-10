@@ -1,0 +1,17 @@
+{
+  "name": "poly_hub_server",
+  "version": "1.0.0",
+  "description": "Push notifications server for PolyHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Willis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "fcm-node": "^1.2.0"
+  }
+}
